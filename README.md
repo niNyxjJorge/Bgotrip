@@ -1,4 +1,4 @@
-# Bgotrip
+http://Bgotrip
 prepare your bags in advance, and leave nothing behind
 
 https://github.com/niNyxjJorge/Bgotrip
