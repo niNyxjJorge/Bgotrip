@@ -1,7 +1,5 @@
-http://Bgotrip
+bag-go-trip.000webhostapp.com
 prepare your bags in advance, and leave nothing behind
-
-https://github.com/niNyxjJorge/Bgotrip
 
 version 0.1
 A simple application to organize your suitcase before traveling.
